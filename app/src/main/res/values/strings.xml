@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Elecciones</string>
+    <string name="app_title">Elecciones 2021 - Oaxaca</string>
+    <string name="app_results">Resultados</string>
+    <string name="vote_label">Votos</string>
+    <string name="vote_percentage">Porcentajes</string>
+    <string name="result_percentage"> %1$f\ %% </string>
+
+</resources>
